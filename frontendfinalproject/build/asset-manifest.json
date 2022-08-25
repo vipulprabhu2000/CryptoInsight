@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-deployed/static/css/main.1a9a7a29.css",
+    "main.js": "/react-deployed/static/js/main.8a40d6ed.js",
+    "static/media/Cryotosy1.png": "/react-deployed/static/media/Cryotosy1.a68f66ffcce3d33aed38.png",
+    "index.html": "/react-deployed/index.html",
+    "main.1a9a7a29.css.map": "/react-deployed/static/css/main.1a9a7a29.css.map",
+    "main.8a40d6ed.js.map": "/react-deployed/static/js/main.8a40d6ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9a7a29.css",
+    "static/js/main.8a40d6ed.js"
+  ]
+}
