@@ -1,4 +1,4 @@
-# FinalYearProject
+CryptoInsight
 
 Final Website Layout
 Homepage
